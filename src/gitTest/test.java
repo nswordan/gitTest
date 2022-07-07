@@ -6,5 +6,6 @@ public class test {
 		//branch change
 //		change2 from ide - commit1
 //		change2 from ide - commit2
+		//test
 	}
 }
