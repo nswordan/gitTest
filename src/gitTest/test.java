@@ -8,5 +8,6 @@ public class test {
 //		change2 from ide - commit2
 		//test commit
 		//same line test from master
+		//same line test from dev
 	}
 }
